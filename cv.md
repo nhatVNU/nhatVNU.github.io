@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: My CV
 tagline: 
 permalink: /resume.html
 ref: CV

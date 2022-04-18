@@ -16,7 +16,7 @@ GitHub: [https://github.com/nhatVNU](https://github.com/nhatVNU)
 
 Linkedin: [https://www.linkedin.com/in/nhatvnu](https://www.linkedin.com/in/nhatvnu)
 
-Facebook: [https://www.facebook.com/profile.php?id=100013896646198](https://www.facebook.com/profile.php?id=100013896646198)
+Facebook: [Nhật Trần Nhật](https://www.facebook.com/profile.php?id=100013896646198)
 
 Phone: (84+)335629597
 

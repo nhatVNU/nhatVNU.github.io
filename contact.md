@@ -12,9 +12,9 @@ order: 4
 
 
 <!-- [![alt text][1]]() GitHub: [https://github.com/thuyngch](https://github.com/thuyngch) -->
-GitHub: [https://github.com/nhatVNU](https://github.com/nhatVNU)
+GitHub: [nhatVNU](https://github.com/nhatVNU)
 
-Linkedin: [https://www.linkedin.com/in/nhatvnu](https://www.linkedin.com/in/nhatvnu)
+Linkedin: [Trần Minh Nhật](https://www.linkedin.com/in/nhatvnu)
 
 Facebook: [Nhật Trần Nhật](https://www.facebook.com/profile.php?id=100013896646198)
 
